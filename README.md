@@ -1,2 +1,2 @@
 # CTKOEO
-temporary website for a new game studio - CT Koeo
+Initial website design for a new game studio - CT Koeo
